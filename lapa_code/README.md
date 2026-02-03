@@ -2,19 +2,17 @@
 
 **Multi-camera Point Tracking Reimagined with Transformers**
 
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=github)](https://ostadabbas.github.io/lapa.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.04213-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2512.04213)
+[![3DV](https://img.shields.io/badge/3DV-Oral%20Presentation-green?style=for-the-badge)](https://ostadabbas.github.io/lapa.github.io/)
+
+---
+
 ## 📖 Overview
 
 LAPA is a novel end-to-end transformer-based architecture for multi-camera point tracking. Unlike traditional approaches that separate detection, association, and tracking into distinct stages, LAPA jointly reasons across views and time through attention mechanisms.
 
-## 🌐 Project Page
-
-For visualizations, results, and supplementary materials, visit our project page:
-**https://ostadabbas.github.io/**
-
-## 📝 Paper
-
-- **arXiv**: https://arxiv.org/abs/2512.04213
-- **Accepted as Oral Presentation at 3DV**
+**For visualizations, results, and supplementary materials, visit our [Project Page](https://ostadabbas.github.io/lapa.github.io/)**
 
 ## 👥 Authors
 
@@ -132,10 +130,8 @@ This project is released under the MIT License. See the LICENSE file for details
 
 ## 📧 Contact
 
-For questions or issues, please:
-- Open an issue on GitHub
-- Contact the authors at [your-email@northeastern.edu]
+For questions or issues, please open an issue on GitHub.
 
 ---
 
-**Note**: For the complete project with visualizations and supplementary materials, visit our [project page](https://ostadabbas.github.io/).
+**For complete visualizations and supplementary materials, visit our [Project Page](https://ostadabbas.github.io/lapa.github.io/)**
