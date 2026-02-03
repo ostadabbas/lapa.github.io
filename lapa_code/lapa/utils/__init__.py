@@ -1,3 +1,0 @@
-"""
-LAPA Utility Functions.
-"""

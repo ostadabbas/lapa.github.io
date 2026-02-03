@@ -1,3 +1,0 @@
-"""
-LAPA Visualization Tools.
-"""
